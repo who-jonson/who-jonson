@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fwho-jonson.github.io)](https://who-jonson.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/who_jonson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%who-jonson&screen_name=Jonson)
 
-## Sr. Software Engineer, Self-Taught Developer, Ambitious Open Sourcerer!!
+## Self-Taught Developer, Ambitious Open Sourcerer!!
 
 - 🔭 I just clean up my repositories for a cleaner starting!
 - 🌱 I’m currently learning Python; Big Data
