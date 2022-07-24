@@ -1,4 +1,4 @@
-### Hi there, I'm Jonson - aka [who-jonson][website] 👋
+### Hi there, I'm Jonson - aka [@whoj][website] 👋
 
 [![Website](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fwho-jonson.github.io)](https://who-jonson.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/who_jonson?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%who-jonson&screen_name=Jonson)
