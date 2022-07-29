@@ -44,9 +44,9 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who-jonson&layout=compact&theme=radical)
+![Top Langs](https://whoj-github-readme-stats.vercel.app/api/top-langs/?username=who-jonson&layout=compact&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=who-jonson&show_icons=true&theme=radical)
+![GitHub stats](https://whoj-github-readme-stats.vercel.app/api?username=who-jonson&show_icons=true&theme=radical)
 
 
 ### Connect with me:
