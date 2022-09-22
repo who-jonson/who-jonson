@@ -44,7 +44,7 @@
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who-jonson&layout=compact&theme=radical&exclude_repo=github-readme-stats,who-jonson.github.io,laradock,sass-lint,mdb-vue-ui-kit)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=who-jonson&layout=compact&theme=radical&exclude_repo=laradock,sakai-nuxt,esilint-config)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=who-jonson&show_icons=true&theme=radical)
 
