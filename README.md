@@ -5,8 +5,7 @@
 
 ## Self-Taught Developer, Ambitious Open Sourcerer!!
 
-- 🔭 I just clean up my repositories for a cleaner starting!
-- 🌱 I’m currently learning Python; Big Data
+- 🌱 Currently learning Python; Big Data
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: There's nothing funny at all!
 <br>
