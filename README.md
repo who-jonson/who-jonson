@@ -6,7 +6,7 @@
 ## Self-Taught Developer, Ambitious Open Sourcerer!!
 
 - 🌱 Currently learning Python; Big Data
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: There's nothing funny at all!
 <br>
 
