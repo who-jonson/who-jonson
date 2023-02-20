@@ -7,12 +7,7 @@
 - 🥅 &nbsp;2023 Goals: Contribute more to Open Source projects
 - ⚡ &nbsp;Fun fact: There's nothing funny at all!
 <br>
-
-<a href='https://profile.codersrank.io/user/who-jonson/'>
-    <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=who-jonson&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px&branding=false'>
-</a>
   
-
 ### <b>✨&nbsp;Activity&nbsp;</b>
   <br/>
   <a href='https://profile.codersrank.io/user/who-jonson/'>
@@ -24,6 +19,14 @@
   <a href='https://profile.codersrank.io/user/who-jonson/'>
     <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=who-jonson&padding=30&skills=nuxtjs,typescript,nodejs,vue,javascript,laravel,html,mysql,php,python,scss,shell,astro&branding=false'>
   </a>
+
+
+### <b>✨&nbsp;Summary&nbsp;</b>
+<br/>
+<a href='https://profile.codersrank.io/user/who-jonson/'>
+    <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=who-jonson&badges=3&style=--header-bg-color:%23000;--border-radius:10px&branding=false'>
+</a>
+
 
 ### Connect with me:
 [<img align="left" alt="who-jonson" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
