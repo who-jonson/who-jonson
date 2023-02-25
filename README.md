@@ -20,13 +20,13 @@
     <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=who-jonson&padding=30&skills=nuxtjs,typescript,nodejs,vue,javascript,laravel,html,mysql,php,python,scss,shell,astro&branding=false'>
   </a>
 
-
+<!--
 ### <b>✨&nbsp;Summary&nbsp;</b>
 <br/>
 <a href='https://profile.codersrank.io/user/who-jonson/'>
     <img src='https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=who-jonson&badges=3&style=--header-bg-color:%23000;--border-radius:10px&branding=false'>
 </a>
-
+-->
 
 ### Connect with me:
 [<img align="left" alt="who-jonson" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -67,7 +67,7 @@
 
 <br />
 <br />
-
+<!--
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=who-jonson&show_icons=true&theme=radical)
 
 [website]: https://who-jonson.github.io
@@ -75,6 +75,6 @@
 [instagram]: https://instagram.com/who_jonson
 [linkedin]: https://linkedin.com/in/whojonson
 
-<!--
+
 **who-jonson/who-jonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
