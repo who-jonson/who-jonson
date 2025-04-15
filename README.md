@@ -2,8 +2,7 @@
 
 ## Self-Taught Developer, Ambitious Open Sourcerer!!
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🥅 &nbsp;2024 Goals: Contribute more to Open Source projects
+- 🥅 &nbsp;2025 Goals: Try focusing on  more Open Source Contribution
 - ⚡ &nbsp;Fun fact: There's nothing funny at all!
 <br>
   
